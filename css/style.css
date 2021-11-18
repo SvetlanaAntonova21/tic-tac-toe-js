@@ -65,3 +65,12 @@ body{
     margin-top: 35px;
     color: rgb(1, 1, 172);
 }
+
+#nameo{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    color: rgb(0, 0, 0);
+}
