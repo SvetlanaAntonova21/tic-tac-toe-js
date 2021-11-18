@@ -15,7 +15,6 @@ body{
     border: 10px solid white;
     margin: 0 auto;
     font-size: 0;
-	border-style:outset;
 }
 
 .cell{
