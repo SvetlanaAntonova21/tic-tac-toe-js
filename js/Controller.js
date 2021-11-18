@@ -66,7 +66,7 @@ export function game(){
                 if(cell[i].innerHTML == '') draw = false;
             }
             if(draw){;
-                document.getElementById("win").innerHTML = "Draw :)";
+                document.getElementById("win").innerHTML = "Ничья! ";
                 del_list();
             }
         }
@@ -89,7 +89,7 @@ export function game(){
             }
         }
         if(checkWin(coor_pl)){
-            document.getElementById("win").innerHTML = "Won " + name + "!";
+            document.getElementById("win").innerHTML = "Выиграл " + name + "!";
             del_list();
         }else{
             var draw = true;
