@@ -12,7 +12,7 @@ body{
 
 #area{
     width: 156px;
-    border: 0px solid Red;
+    border: 10px solid Red;
     margin: 0 auto;
     font-size: 0;
 }
